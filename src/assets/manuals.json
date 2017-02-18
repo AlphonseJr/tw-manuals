@@ -1,0 +1,11 @@
+[
+    {
+        "name":"A watch name", "manuals":
+        [
+           {
+               "name": "My Manual Name",
+               "file": "My Manual File Name"
+           }
+        ]
+    }
+]
