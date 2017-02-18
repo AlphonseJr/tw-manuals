@@ -1,11 +1,4 @@
 [
-    {
-        "name":"A watch name", "manuals":
-        [
-           {
-               "name": "My Manual Name",
-               "file": "My Manual File Name"
-           }
-        ]
-    }
+    {"file":"MyFileName.pdf", "tags":["tag1", "tag2"]},
+    {"file":"MyOtherFileName.pdf", "tags":["tag1", "tag2"]}
 ]
