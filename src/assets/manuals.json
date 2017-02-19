@@ -1,4 +1,5 @@
 [
-    {"file":"MyFileName.pdf", "tags":["tag1", "tag2"]},
+    {"file":"IWA04638_REF3714_eu.pdf", "tags":["IWC", "Portugieser", "Chronograph", "3714"], "name":"User guide IWC Portugieser Chronograph 3714"},
+    {"file":"IWA26620_REF3764_eu.pdf", "tags":["IWC", "Da Vinci", "Chronograph", "3764"], "name":"User guide IWC Da Vinci Chronograph 3764"},
     {"file":"MyOtherFileName.pdf", "tags":["tag1", "tag2"]}
 ]
